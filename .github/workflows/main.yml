@@ -2,7 +2,7 @@
   # You may pin to the exact commit or the version.
   # uses: zcong1993/setup-bin@63b721ceda9cd95f8a881673907a8460beaa2cac
   uses: zcong1993/setup-bin@v0.3.1
-  with:
+  with: Hello World.bi
     # Name present the binary, eg: hugo
     name: Hello World
     # Binary file relative path with asset folder, default .
